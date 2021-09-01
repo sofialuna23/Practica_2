@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ejercicio_StringInt
+namespace Ejercicio_StrinInt
 {
     class Program
     {
@@ -12,7 +12,7 @@ namespace Ejercicio_StringInt
         {
             String nombre;
             String dato = "";
-            int edad = 0 ; 
+            int edad = 0;
 
             Console.WriteLine("Ingrese su nombre:");
             nombre = Console.ReadLine();
